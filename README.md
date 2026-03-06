@@ -22,11 +22,11 @@ The program finds a path from a **start position** to one or more **goal positio
 
 ## Run the Program
 
-python search.py <mapfile>.txt <method>
+      python search.py <mapfile>.txt <method>
 
-   	Optional: Add "visualization" at the end to see a live grid animation.
+Optional: Add "visualization" at the end to see a live grid animation.
     
-Example: python search.py map1.txt astar visualization
+      Example: python search.py map1.txt astar visualization
 
 
 ## Technologies
