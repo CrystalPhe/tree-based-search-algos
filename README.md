@@ -26,7 +26,9 @@ The program finds a path from a **start position** to one or more **goal positio
 
 Optional: Add "visualization" at the end to see a live grid animation.
     
-      Example: python search.py map1.txt astar visualization
+Example: 
+      
+      python search.py map1.txt astar visualization
 
 
 ## Technologies
